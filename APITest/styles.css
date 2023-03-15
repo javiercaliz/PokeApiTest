@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+
+.card {
+	margin: auto;
+	margin-top: 50px;
+	text-align: left;
+}
+
+#search {
+	display: initial;
+}
+
+#image {
+	width: 150px;
+	height: 150px;
+	margin: auto;
+}
+
+
